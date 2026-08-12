@@ -21,4 +21,11 @@ dependencyResolutionManagement {
 
 rootProject.name = "Neuron_Test"
 include(":app")
- 
+include(":domain:user")
+include(":core:ui")
+include(":data:user")
+include(":feature:profile")
+include(":feature:registration")
+include(":domain:purchases")
+include(":data:purchases")
+include(":feature:purchases")
